@@ -1,4 +1,4 @@
-# Pothole Detection || Pothole Detection using python and yolov8
+# Real-time Webcam Pothole Detection using YOLOv8 and PyTorch
 
 
 
