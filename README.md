@@ -9,7 +9,7 @@ git clone https://github.com/Surajpatra700/Pathhole_Detection.git
 ```
 - Goto the cloned folder.
 ```
-cd Pothole-Detection-Pothole-Detection-using-python-and-deep-learning
+cd Pothole_Detection
 
 ```
 - Upgrade pip with the mentioned command below.
